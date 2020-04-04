@@ -1,0 +1,6 @@
+myenv
+.idea/
+prepara_banco.py
+teste.py
+__pycache__/
+templates/.gitignore
